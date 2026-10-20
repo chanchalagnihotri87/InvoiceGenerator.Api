@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="CLAUDE.md" />
+  </Folder>
+  <Project Path="InvoiceGenerator.Api/InvoiceGenerator.Api.csproj" />
+  <Project Path="InvoiceGenerator.Application/InvoiceGenerator.Application.csproj" />
+  <Project Path="InvoiceGenerator.Common/InvoiceGenerator.Common.csproj" Id="cf98c25f-c575-4be8-8699-8238b705714b" />
+  <Project Path="InvoiceGenerator.Domain/InvoiceGenerator.Domain.csproj" />
+  <Project Path="InvoiceGenerator.Infrastructure/InvoiceGenerator.Infrastructure.csproj" />
+</Solution>
